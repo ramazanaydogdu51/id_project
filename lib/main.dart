@@ -11,7 +11,7 @@ class AreyCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Deneme bir ki')
+        title: Text('Githup Test')
       ),
 
     );
